@@ -5,4 +5,3 @@
 - 🤖 I'm a full-stack developer(python, html, css, js)
 - 🌘 i love coding
 - 👾 I'm a gamer
-#### thanks for read!
