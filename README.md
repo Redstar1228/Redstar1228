@@ -5,6 +5,7 @@
 - 🤖 I'm a full-stack developer(python, html, css, js)
 - 🌘 i love coding
 - 👾 I'm a gamer
+- 💻 I use android phone for coding
 # 📚 languages and frameworks
 <table>
   <tr>
